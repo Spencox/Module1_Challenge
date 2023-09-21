@@ -17,10 +17,9 @@ N/A
 
 This refactored site is up at githup pages:
 
-[https://choosealicense.com/]
+https://spencox.github.io/Module1_Challenge/
 
 SCREENSHOT
-
 
 ## Credits
 
