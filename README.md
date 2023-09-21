@@ -15,7 +15,7 @@ N/A
 
 ## Usage
 
-This refactored site is up at githup pages:
+This refactored site is up at github pages:
 
 https://spencox.github.io/Module1_Challenge/
 
