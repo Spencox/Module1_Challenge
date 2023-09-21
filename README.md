@@ -19,7 +19,7 @@ This refactored site is up at githup pages:
 
 https://spencox.github.io/Module1_Challenge/
 
-SCREENSHOT
+![Alt text](image.png)
 
 ## Credits
 
@@ -29,6 +29,7 @@ https://github.com/coding-boot-camp/urban-octo-telegram
 
 Updated Refactored Code: 
 
+https://github.com/Spencox/Module1_Challenge.git
 
 
 
